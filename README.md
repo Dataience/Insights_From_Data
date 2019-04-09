@@ -1,4 +1,4 @@
-# Domain: HR
+# Domain-HR
 
 Business challenge/requirement:
 SFO Public Department -referred to as SFO  has captured all the salary data of its employees from year 2011-2014.  Now we are in year 2015 and the organization is facing some financial crisis. As first step HR wants to rationalize employee cost to save payroll budget.
