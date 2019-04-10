@@ -6,7 +6,7 @@ SFO Public Department -referred to as SFO  has captured all the salary data of i
 Key issues:
 Cost can be saved by figuring out the key pockets of high salaries
 
-Businessbenefits:
+Business benefits:
 Save at least 10% of employee cost by identifying and letting them go
 
 Approach to Solve:
